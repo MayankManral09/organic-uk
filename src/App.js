@@ -1,9 +1,11 @@
 import React from 'react';
-import './style.css';
-import Crop from './crop.js';
-import Navbar from './navbar.js';
-import data from './datasets/data.json';
 import { useState, useEffect } from 'react';
+import './style.css';
+import Crop from './components/crop.js';
+import Navbar from './components/navbar.js';
+import Footer from './components/footer.js';
+import data from './datasets/data.json';
+import Manures from './manures.js';
 
 export default function App() {
   const [Crops, setCrops] = useState([]);
@@ -15,40 +17,20 @@ export default function App() {
   }, []);
 
   return (
-    <div>
+    <>
       <Navbar />
-      {/* {setInterval(() => {
-        return (
-          <img
-            src="https://source.unsplash.com/1600x900/?organic"
-            alt="Organic"
-          /> 
-        );
-      }, 5000)} */}
-      <img src="https://source.unsplash.com/1600x900/?onion" alt="uttrakhand" />
-      <img
-        src="https://source.unsplash.com/1600x900/?chives"
-        alt="uttrakhand"
-      />
-      <img
-        src="https://source.unsplash.com/1600x900/?uttrakhand"
-        alt="uttrakhand"
-      />
-      <img src="https://source.unsplash.com/1600x900/?organic" alt="Organic" />
+      <br />
+      <br />
+      <br />
       <div>
-        {Crops.map((crop) => {
-          const CropData = {
-            No: crop.No,
-            CropSpecies: crop.CropSpecies,
-            CommonName: crop.CommonName,
-            SelectedElementsOfTraditionalKnowledge:
-              crop.SelectedElementsOfTraditionalKnowledge,
-            BroadElevationRange: crop.BroadElevationRange,
-            Manures: crop.Manures,
-          };
-          return <Crop key={crop.No} CropData={CropData} />;
-        })}
+        <img
+          src="https://source.unsplash.com/1600x900/?onion"
+          alt="uttrakhand"
+        />
       </div>
-    </div>
+
+      <Manures />
+      <Footer />
+    </>
   );
 }

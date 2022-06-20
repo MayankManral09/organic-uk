@@ -1,5 +1,5 @@
 import React from 'react';
-import './style.css';
+import '../style.css';
 import data from './datasets/data.json';
 
 export default function Crop({ CropData }) {

@@ -13,13 +13,13 @@ export default function Navbar() {
           </div>
           <ul className="menu-items">
             <li>
-              <a>Manures</a>
+              <a href="/">Manures</a>
             </li>
             <li>
-              <a>Reports</a>
+              <a href="/">Contact Us</a>
             </li>
             <li>
-              <a>Register</a>
+              <a href="/">About Us</a>
             </li>
           </ul>
           <h1 className="logo">
