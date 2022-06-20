@@ -1,6 +1,7 @@
 import React from 'react';
 import './style.css';
 import Crop from './crop.js';
+import Navbar from './navbar.js';
 import data from './datasets/data.json';
 import { useState, useEffect } from 'react';
 
@@ -15,7 +16,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Organic Uttrakhand</h1>
+      <Navbar />
       {/* {setInterval(() => {
         return (
           <img
