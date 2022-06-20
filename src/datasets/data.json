@@ -1,0 +1,362 @@
+[
+  {
+    "No": "1",
+    "CropSpecies": "Allium cepa",
+    "CommonName": "Onion (Pyaz)",
+    "SelectedElementsOfTraditionalKnowledge": "Requires irrigation and high manure input.",
+    "BroadElevationRange": "500-1200",
+    "Manures": "Green Manures"
+  },
+  {
+    "No": "2",
+    "CropSpecies": "Allium humile",
+    "CommonName": "Chives (Jimbu/ Faran)",
+    "SelectedElementsOfTraditionalKnowledge": "Used as spice/condiment cultivated on small-scale in agricultural fields and even on rooftops and village ruins and needs high manure input.",
+    "BroadElevationRange": "2300-3000",
+    "Manures": "Concentrated organic Manures"
+  },
+  {
+    "No": "3",
+    "CropSpecies": "Amaranthus oleracea",
+    "CommonName": "Amaranth (Chaulai)",
+    "SelectedElementsOfTraditionalKnowledge": "Cultivated on small scale for vegetable and also for grains often as rainfed mixed crop during Kharif (summer) season.",
+    "BroadElevationRange": "500-2500",
+    "Manures": "Compost"
+  },
+  {
+    "No": "4",
+    "CropSpecies": "Amaranthus frumentacea",
+    "CommonName": "Amaranth (Chuwa/ Ramdana)",
+    "SelectedElementsOfTraditionalKnowledge": "A cash crop rich in protein cultivated on large scale only at higher altitude areas as pure/ mixed rainfed crop during Kharif season and considered sacred food.",
+    "BroadElevationRange": "1500-3000",
+    "Manures": "Home Compost"
+  },
+  {
+    "No": "5",
+    "CropSpecies": "Brassica campestris",
+    "CommonName": "Mustard (sarson)",
+    "SelectedElementsOfTraditionalKnowledge": "A Rabi (winter) season crop performs better in higher altitude areas. Seeds yield cooking oil and tender leaves are widely used as green vegetable during winter season.",
+    "BroadElevationRange": "500-2200",
+    "Manures": "Farm Yard Manure"
+  },
+  {
+    "No": "6",
+    "CropSpecies": "Brassica spp",
+    "CommonName": "Mustard (Toria)",
+    "SelectedElementsOfTraditionalKnowledge": "Source of cooking oil. Sometimes grounded seeds also mixed with cooked rice to prepare instant food.",
+    "BroadElevationRange": "500-2000",
+    "Manures": "Manures"
+  },
+  {
+    "No": "7",
+    "CropSpecies": "Cajanus cajan",
+    "CommonName": "Pigeon pea (Tor)",
+    "SelectedElementsOfTraditionalKnowledge": "Grown in less fertile soil to improve soil fertility and one of the costliest legumes/pulses in the market.",
+    "BroadElevationRange": "500-1800",
+    "Manures": "Compost"
+  },
+  {
+    "No": "8",
+    "CropSpecies": "Carum carvi",
+    "CommonName": "Caraway (Kala Jeera)",
+    "SelectedElementsOfTraditionalKnowledge": "Grown in selected high altitude villages used as a condiment as well as a medicine and require high manure input.",
+    "BroadElevationRange": "2200-2900",
+    "Manures": "Crop Residues"
+  },
+  {
+    "No": "9",
+    "CropSpecies": "Chenopodium album",
+    "CommonName": "Pig-weed (Bhetu)",
+    "SelectedElementsOfTraditionalKnowledge": "In some areas used mostly as a vegetable",
+    "BroadElevationRange": "2000-2500",
+    "Manures": "Home Compost"
+  },
+  {
+    "No": "10",
+    "CropSpecies": "Cleome viscosa",
+    "CommonName": "Asian spiderflower (Jakhia)",
+    "SelectedElementsOfTraditionalKnowledge": "Grows as a weed with Kharif season rainfed crops and used as a condiment having good market value",
+    "BroadElevationRange": "500-1500",
+    "Manures": "Poultry Manure"
+  },
+  {
+    "No": "11",
+    "CropSpecies": "Colocasia esculenta",
+    "CommonName": "Taro (Pindalu)",
+    "SelectedElementsOfTraditionalKnowledge": "Needs irrigation and high manure input and grown as a cash crop in some areas",
+    "BroadElevationRange": "500-1500",
+    "Manures": "Sheep & Goat Manure"
+  },
+  {
+    "No": "12",
+    "CropSpecies": "Echinochloa frumentacea",
+    "CommonName": "Barnyard millet (Jhangora)",
+    "SelectedElementsOfTraditionalKnowledge": "Does not need irrigation and possesses medicinal properties to cure jaundice and consumed widely as a substitute of rice. Crop by- product rated as the best quality fodder. Taste and food quality deteriorates after about one year of storage and therefore consumed soon after its production. Also used for making local alcoholic beverage.",
+    "BroadElevationRange": "500-1800",
+    "Manures": "Concentrated organic Manures"
+  },
+  {
+    "No": "13",
+    "CropSpecies": "Eleusine coracana",
+    "CommonName": "Finger millet (Koda)",
+    "SelectedElementsOfTraditionalKnowledge": "Does not need irrigation and used to be consumed in large quantities in traditional food. Taste and food deteriorates after prolonged storage and so consumed soon after its production. Also used for making local alcoholic beverage.",
+    "BroadElevationRange": "500-2200",
+    "Manures": "Compost"
+  },
+  {
+    "No": "14",
+    "CropSpecies": "Fagopyrum esculentum",
+    "CommonName": "Buckwheat (Oggal)",
+    "SelectedElementsOfTraditionalKnowledge": "A rainfed crop consumed as food and also offered to gods and goddesses.",
+    "BroadElevationRange": "1900-2800",
+    "Manures": "Crop Residues"
+  },
+  {
+    "No": "15",
+    "CropSpecies": "Fagopyrum tataricum",
+    "CommonName": "Buckwheat (Fafra)",
+    "SelectedElementsOfTraditionalKnowledge": "A rainfed crop consumed as food offered to gods and goddesses and also sold for income.",
+    "BroadElevationRange": "1900-2800",
+    "Manures": "Compost"
+  },
+  {
+    "No": "16",
+    "CropSpecies": "Glycine soja",
+    "CommonName": "Soybean",
+    "SelectedElementsOfTraditionalKnowledge": "Does not need irrigation introduced by government during 1970s-80s.",
+    "BroadElevationRange": "500-1700",
+    "Manures": "Crop Residues"
+  },
+  {
+    "No": "17",
+    "CropSpecies": "Glycine sp.",
+    "CommonName": "Soybean (Kala Bhatt)",
+    "SelectedElementsOfTraditionalKnowledge": "Does not need irrigation but many a times sown on the raised bunds of wet paddy fields. Traditionally consumed as a pulse soup and in a variety of snacks.",
+    "BroadElevationRange": "1000-2200",
+    "Manures": "Poultry Manure"
+  },
+  {
+    "No": "18",
+    "CropSpecies": "Glycine max",
+    "CommonName": "Soybean (Bhatt)",
+    "SelectedElementsOfTraditionalKnowledge": "Does not need irrigation but mostly cultivated on the raised bunds of wet paddy fields. Traditionally consumed as a pulse soup and in a variety of snacks specifically boiling the ripe pods to relish the cooked seeds during harvest season.",
+    "BroadElevationRange": "500-1400",
+    "Manures": "Concentrated organic Manures"
+  },
+  {
+    "No": "19",
+    "CropSpecies": "Hibiscus subdariffa",
+    "CommonName": "Roselle (Sun)",
+    "SelectedElementsOfTraditionalKnowledge": "Few plants are maintained in mixed crops during Kharif season. Used for fiber and also for its oily seeds.",
+    "BroadElevationRange": "500-1500",
+    "Manures": "Manures"
+  },
+  {
+    "No": "20",
+    "CropSpecies": "Hordeum himalayens",
+    "CommonName": "Naked barley (Wa-jau)",
+    "SelectedElementsOfTraditionalKnowledge": "A staple rainfed food crop grown during Rabi in high altitude areas under rainfed condition .",
+    "BroadElevationRange": "1400-2800",
+    "Manures": "Concentrated organic Manures"
+  },
+  {
+    "No": "21",
+    "CropSpecies": "Hordeum vulgare",
+    "CommonName": "Barley (Jau)",
+    "SelectedElementsOfTraditionalKnowledge": "Rainfed crop grown on a small scale for making sattu (a traditional instant human food made by grinding roasted seeds) while raw grains are fed to livestock especially bullocks to perform arduous work like ploughing.",
+    "BroadElevationRange": "900-2200",
+    "Manures": "Manures"
+  },
+  {
+    "No": "22",
+    "CropSpecies": "Lens esculenta",
+    "CommonName": "Lentil (Masoor)",
+    "SelectedElementsOfTraditionalKnowledge": "Rainfed Rabi (winter) season legume/ pulse.",
+    "BroadElevationRange": "500-1900",
+    "Manures": "Concentrated organic Manures"
+  },
+  {
+    "No": "23",
+    "CropSpecies": "Macrotyloma uniflorum",
+    "CommonName": "Horsegram (Gahat)",
+    "SelectedElementsOfTraditionalKnowledge": "Grown as a minor constituent of mixed crop in settled rainfed fields and as a pure crop in slash and burn agriculture (Katil) during Kharif season. An extremely useful staple and medicinal pulse to cure kidney stones. Boiling hot soup is poured over big boulders to break/crush them.",
+    "BroadElevationRange": "500-1800",
+    "Manures": "Sheep & Goat Manure"
+  },
+  {
+    "No": "24",
+    "CropSpecies": "Oryza sativa",
+    "CommonName": "Paddy (Satti)",
+    "SelectedElementsOfTraditionalKnowledge": "Grown as mixed or pure crop in rainfed fields during Kharif season. It is one of the important staple food. This rice is considered to be less tasty and and also difficult to digest as compared to irrigated rice.",
+    "BroadElevationRange": "500-1800",
+    "Manures": "Farm Yard Manure"
+  },
+  {
+    "No": "25",
+    "CropSpecies": "Oryza sativa",
+    "CommonName": "Paddy (Dhan)",
+    "SelectedElementsOfTraditionalKnowledge": "Needs intensive water and manure inputs and is the most important staple food crop of the region.",
+    "BroadElevationRange": "500-1000",
+    "Manures": "Poultry Manure"
+  },
+  {
+    "No": "26",
+    "CropSpecies": "Panicum miliaceum",
+    "CommonName": "Hog-millet (Cheena/ Bhangana)",
+    "SelectedElementsOfTraditionalKnowledge": "An short duration (2.5-months) crop grown during transition period between Rabi and Kharif seasons used to be grown on a large scale in both rainfed (Cheena) and irrigated (Bhangana) conditions when public distribution system did not exist",
+    "BroadElevationRange": "500-1950",
+    "Manures": "Oil Cake Manure"
+  },
+  {
+    "No": "27",
+    "CropSpecies": "Perilla frutescens",
+    "CommonName": "Perilla (Bhangjeera)",
+    "SelectedElementsOfTraditionalKnowledge": "Oil and medicinal crop grown in higher altitude rainfed fields. Takes around 10 months to ripen.",
+    "BroadElevationRange": "1200-2300",
+    "Manures": "Concentrated organic Manures"
+  },
+  {
+    "No": "28",
+    "CropSpecies": "Phaseolus vulgaris",
+    "CommonName": "Kidney bean (Rajama)",
+    "SelectedElementsOfTraditionalKnowledge": "An important cash crop of Kharif season cultivated as mixed or monocrop on a large scale in higher elevation villages.",
+    "BroadElevationRange": "1500-2500",
+    "Manures": "Poultry Manure"
+  },
+  {
+    "No": "29",
+    "CropSpecies": "Pisum sativum",
+    "CommonName": "Pea (Matar)",
+    "SelectedElementsOfTraditionalKnowledge": "A cash crop cultivated in mono- as well as mixed-crop condition during Rabi season.",
+    "BroadElevationRange": "500-1500",
+    "Manures": "Poultry Manure"
+  },
+  {
+    "No": "30",
+    "CropSpecies": "Pisum spp",
+    "CommonName": "(Kong)",
+    "SelectedElementsOfTraditionalKnowledge": "Traditional pulse of higher elevation.",
+    "BroadElevationRange": "2000-2500",
+    "Manures": "Farm Yard Manure"
+  },
+  {
+    "No": "31",
+    "CropSpecies": "Pleurospermum angelicoides",
+    "CommonName": "(Choru)",
+    "SelectedElementsOfTraditionalKnowledge": "Used as a medicinal product/ condiment. Largely collected from wild but recently domesticated in a few high altitude villages.",
+    "BroadElevationRange": "2200-2900",
+    "Manures": "Green Manures"
+  },
+  {
+    "No": "32",
+    "CropSpecies": "Saussurea costus",
+    "CommonName": "(Kuth)",
+    "SelectedElementsOfTraditionalKnowledge": "Used as a medicinal product/condiment. Largely collected from wild but recently domesticated in a few high altitude villages.",
+    "BroadElevationRange": "2200-2900",
+    "Manures": "Green Manures"
+  },
+  {
+    "No": "33",
+    "CropSpecies": "Sesamum indicum",
+    "CommonName": "Sesame (Til)",
+    "SelectedElementsOfTraditionalKnowledge": "Rainfed oil crop of Kharif season which can grow in relatively infertile soils also.",
+    "BroadElevationRange": "1000-1600",
+    "Manures": "Manures"
+  },
+  {
+    "No": "34",
+    "CropSpecies": "Setaria italica",
+    "CommonName": "Foxtail millet (Kauni)",
+    "SelectedElementsOfTraditionalKnowledge": "An early maturing Kharif season crop ripens in about three months time and valued for food security by the small holders when public distribution system was not in place.",
+    "BroadElevationRange": "800-2000",
+    "Manures": "Oil Cake Manure"
+  },
+  {
+    "No": "35",
+    "CropSpecies": "Solanum tuberosum",
+    "CommonName": "Potato (Alu)",
+    "SelectedElementsOfTraditionalKnowledge": "A cash crop grown on a large scale in higher altitude villages requiring 2-3 times more manure input as compared to traditional staple crops.",
+    "BroadElevationRange": "1000-2500",
+    "Manures": "Crop Residues"
+  },
+  {
+    "No": "36",
+    "CropSpecies": "Sorghum vulgare",
+    "CommonName": "Pearl millet (Junyali)",
+    "SelectedElementsOfTraditionalKnowledge": "Rainfed crop grown on a small scale in very few villages during Kharif season.",
+    "BroadElevationRange": "1200-2000",
+    "Manures": "Green Manures"
+  },
+  {
+    "No": "37",
+    "CropSpecies": "Triticum aestivum",
+    "CommonName": "Wheat (Gehun)",
+    "SelectedElementsOfTraditionalKnowledge": "Staple crop grown both in irrigated and rainfed conditions during Rabi season and needs huge manure input.",
+    "BroadElevationRange": "500-2500",
+    "Manures": "Poultry Manure"
+  },
+  {
+    "No": "38",
+    "CropSpecies": "Vigna aconitifolia",
+    "CommonName": "Mat bean (Bhringa)",
+    "SelectedElementsOfTraditionalKnowledge": "Traditional Kharif season pulse grown mixed with other crops on a small scale.",
+    "BroadElevationRange": "800-1600",
+    "Manures": "Home Compost"
+  },
+  {
+    "No": "39",
+    "CropSpecies": "Vigna angularis",
+    "CommonName": "Adjuki bean (Rains)",
+    "SelectedElementsOfTraditionalKnowledge": "Traditional Kharif season pulse grown mixed with other crops on a small scale.",
+    "BroadElevationRange": "1200-1800",
+    "Manures": "Sheep & Goat Manure"
+  },
+  {
+    "No": "40",
+    "CropSpecies": "Vigna mungo",
+    "CommonName": "Black gram (Urad)",
+    "SelectedElementsOfTraditionalKnowledge": "Traditional Kharif season pulse gown mixed with other crops on a small scale.",
+    "BroadElevationRange": "500-1600",
+    "Manures": "Compost"
+  },
+  {
+    "No": "41",
+    "CropSpecies": "Vigna radiata",
+    "CommonName": "Green gram (Mung)",
+    "SelectedElementsOfTraditionalKnowledge": "Traditional Kharif season pulse grown mixed with other crops in smaller quantities",
+    "BroadElevationRange": "500-1000",
+    "Manures": "Green Manures"
+  },
+  {
+    "No": "42",
+    "CropSpecies": "Vigna unguiculata",
+    "CommonName": "Cow pea (Sonta)",
+    "SelectedElementsOfTraditionalKnowledge": "Traditional Kharif season pulse grown mixed with other crops on a small scale.",
+    "BroadElevationRange": "500-1700",
+    "Manures": "Home Compost"
+  },
+  {
+    "No": "43",
+    "CropSpecies": "Vigna umbellata",
+    "CommonName": "Rice bean (Bhotiya)",
+    "SelectedElementsOfTraditionalKnowledge": "Traditional Kharif season pulse grown mixed with other crops on a small scale.",
+    "BroadElevationRange": "1200-2200",
+    "Manures": "Farm Yard Manure"
+  },
+  {
+    "No": "44",
+    "CropSpecies": "Zea mays",
+    "CommonName": "Maize/Corn (Mungari)",
+    "SelectedElementsOfTraditionalKnowledge": "Rainfed crop grown mixed with other crops in agricultural fields and as monocrop in kitchen gardens/ courtyards  consumed largely as a snack: mature cobs are roasted or boiled and the kernels/seeds  are consumed.",
+    "BroadElevationRange": "500-1600",
+    "Manures": "Crop Residues"
+  },
+  {
+    "No": "45",
+    "CropSpecies": "Zingiber officinale",
+    "CommonName": "Zinger (Adrak)",
+    "SelectedElementsOfTraditionalKnowledge": "A traditional spice and medicinal plant cultivated on a large scale as a cash crop in some pockets.",
+    "BroadElevationRange": "500-140",
+    "Manures": "Manures"
+  }
+]
