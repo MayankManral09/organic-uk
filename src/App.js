@@ -1,20 +1,21 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
+import { Route, Routes } from 'react-router-dom';
 import './style.css';
 import Crop from './components/crop.js';
 import Navbar from './components/navbar.js';
 import Footer from './components/footer.js';
 import data from './datasets/data.json';
-import Manures from './manures.js';
-import Blogs from './blogs.js';
+import Home from './pages/home.js';
+import Crops from './pages/crops.js';
+import Blogs from './pages/blogs.js';
+import About from './pages/about.js';
 
 export default function App() {
-  const [Crops, setCrops] = useState([]);
+  const [CropsData, setCropsData] = useState([]);
 
   useEffect(() => {
-    setCrops(data);
-    console.log(JSON.stringify(data));
-    console.log(data[0].Manures);
+    setCropsData(data);
   }, []);
 
   return (
@@ -23,15 +24,17 @@ export default function App() {
       <br />
       <br />
       <br />
-      <div>
-        <img
-          src="https://source.unsplash.com/1600x900/?onion"
-          alt="uttrakhand"
-        />
+      <div className="container">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/manures" element={<Crops />} />
+          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
       </div>
 
-      <Blogs />
-      {/* <Manures /> */}
+      {/* <Blogs /> */}
+      {/* <Crops /> */}
       <Footer />
     </>
   );

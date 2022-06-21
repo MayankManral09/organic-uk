@@ -1,11 +1,10 @@
 import React from 'react';
-import './style.css';
-import Crop from './components/crop.js';
-import Navbar from './components/navbar.js';
-import data from './datasets/data.json';
+import '../style.css';
+import Crop from '../components/crop.js';
+import data from '../datasets/data.json';
 import { useState, useEffect } from 'react';
 
-export default function Manures() {
+export default function Crops() {
   const [Crops, setCrops] = useState([]);
 
   useEffect(() => {
@@ -14,7 +13,6 @@ export default function Manures() {
 
   return (
     <>
-      <Navbar />
       <div>
         <img
           src="https://source.unsplash.com/1600x900/?organic"

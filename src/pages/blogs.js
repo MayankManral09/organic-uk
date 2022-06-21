@@ -1,9 +1,8 @@
 import React from 'react';
-import './style.css';
+import '../style.css';
 import Crop from './components/crop.js';
-import BlogCard from './components/BlogCard.js';
-import Navbar from './components/navbar.js';
-import data2 from './datasets/data2.json';
+import BlogCard from '../components/BlogCard.js';
+import data2 from '../datasets/data2.json';
 import { useState, useEffect } from 'react';
 
 export default function Blogs() {
@@ -18,7 +17,6 @@ export default function Blogs() {
 
   return (
     <>
-      <Navbar />
       <div>
         <img
           src="https://source.unsplash.com/1600x900/?organic"
