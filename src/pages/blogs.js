@@ -1,6 +1,6 @@
 import React from 'react';
 import '../style.css';
-import Crop from './components/crop.js';
+import Crop from '../components/crop.js';
 import BlogCard from '../components/BlogCard.js';
 import data2 from '../datasets/data2.json';
 import { useState, useEffect } from 'react';
