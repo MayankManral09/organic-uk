@@ -6,6 +6,7 @@ import Navbar from './components/navbar.js';
 import Footer from './components/footer.js';
 import data from './datasets/data.json';
 import Manures from './manures.js';
+import Blogs from './blogs.js';
 
 export default function App() {
   const [Crops, setCrops] = useState([]);
@@ -29,7 +30,8 @@ export default function App() {
         />
       </div>
 
-      <Manures />
+      <Blogs />
+      {/* <Manures /> */}
       <Footer />
     </>
   );

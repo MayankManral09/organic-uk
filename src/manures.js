@@ -5,13 +5,11 @@ import Navbar from './components/navbar.js';
 import data from './datasets/data.json';
 import { useState, useEffect } from 'react';
 
-export default function App() {
+export default function Manures() {
   const [Crops, setCrops] = useState([]);
 
   useEffect(() => {
     setCrops(data);
-    console.log(JSON.stringify(data));
-    console.log(data[0].Manures);
   }, []);
 
   return (
