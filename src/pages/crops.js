@@ -15,7 +15,7 @@ export default function Crops() {
     <>
       <div>
         <img
-          src="https://source.unsplash.com/1600x900/?organic"
+          src="https://www.foodbuddies.in/wp-content/uploads/2018/05/Map-Uttarakhand.png"
           alt="Organic"
         />
         <div>
@@ -32,6 +32,10 @@ export default function Crops() {
             return <Crop key={crop.No} CropData={CropData} />;
           })}
         </div>
+        <img
+          src="https://source.unsplash.com/1600x900/?organic"
+          alt="Organic"
+        />
       </div>
     </>
   );

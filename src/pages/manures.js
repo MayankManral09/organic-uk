@@ -1,15 +1,14 @@
 import React from 'react';
 import '../style.css';
-import Crop from '../components/crop.js';
-import BlogCard from '../components/BlogCard.js';
+import ManureCard from '../components/manureCard.js';
 import data2 from '../datasets/data2.json';
 import { useState, useEffect } from 'react';
 
-export default function Blogs() {
-  const [Blogs, setBlogs] = useState([]);
+export default function Manures() {
+  const [Manures, setManures] = useState([]);
 
   useEffect(() => {
-    setBlogs(data2);
+    setManures(data2);
     console.log(data2);
   }, []);
 
@@ -23,8 +22,8 @@ export default function Blogs() {
           alt="Organic"
         />
         <div>
-          {Blogs.map((blog) => {
-            const BlogData = {
+          {Manures.map((blog) => {
+            const ManureData = {
               author: blog.author,
               date: blog.date,
               title: blog.title,
@@ -32,7 +31,7 @@ export default function Blogs() {
               content: blog.content,
             };
             i = i + 1;
-            return <BlogCard key={i} BlogData={BlogData} />;
+            return <ManureCard key={i} ManureData={ManureData} />;
           })}
         </div>
       </div>

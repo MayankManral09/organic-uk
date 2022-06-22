@@ -20,7 +20,7 @@ export default function Navbar() {
               <Link to="/blogs">Manures</Link>
             </li>
             <li>
-              <Link to="/about">About Us</Link>
+              <Link to="/about">About</Link>
             </li>
           </ul>
           <h1 className="logo">
