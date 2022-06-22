@@ -116,7 +116,7 @@ export default function Home() {
         </p>
         <br />
         <img
-          src="https://source.unsplash.com/1600x900/?organic-farming"
+          src="https://agritech.tnau.ac.in/org_farm/INTRODUCTION.jpg"
           alt="Organic"
         />
         <br />

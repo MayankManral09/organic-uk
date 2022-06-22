@@ -4,109 +4,111 @@ import '../style.css';
 export default function About() {
   return (
     <>
-      <h1 style={{ textAlign: 'center' }}>About</h1>
       <section>
         <br />
-        <h2 style={{ textAlign: 'center' }}>Organic Farming</h2>
+        <h2 style={{ textAlign: 'center' }}>Government Initiative</h2>
         <br />
         <p>
-          Organic farming is a production system which avoids or largely
-          excludes the use of synthetically compounded fertilizers, pesticides,
-          growth regulators, genetically modified organisms and livestock food
-          additives. To the maximum extent possible organic farming system rely
-          upon crop rotations, use of crop residues, animal manures, legumes,
-          green manures, off farm organic wastes, biofertilizers, mechanical
-          cultivation, mineral bearing rocks and aspects of biological control
-          to maintain soil productivity and tilth to supply plant nutrients and
-          to control insect, weeds and other pests.
+          To keep the Ganga free of toxic chemicals, the Uttarakhand government
+          is executing a centrally funded scheme, under which hill farmers in
+          the catchment area of the river are being encouraged to adopt organic
+          farming. The scheme would also help augment their income
+          substantially, officials said.
         </p>
         <br />
+        <img src="https://source.unsplash.com/1600x900/?ganga" alt="Organic" />
         <p>
-          Organic methods can increase farm productivity, repair decades of
-          environmental damage and knit small farm families into more
-          sustainable distribution networks leading to improved food security if
-          they organize themselves in production, certification and marketing.
-          During last few years an increasing number of farmers have shown lack
-          of interest in farming and the people who used to cultivate are
-          migrating to other areas. Organic farming is one way to promote either
-          self-sufficiency or food security. Use of massive inputs of chemical
-          fertilizers and toxic pesticides poisons the land and water heavily.
-          The after-effects of this are severe environmental consequences,
-          including loss of topsoil, decrease in soil fertility, surface and
-          ground water contamination and loss of genetic diversity.
+          “Under the first phase of the centrally funded project, all poor and
+          marginal hill farmers inhabiting the 42 villages in the catchment area
+          of the river Ganga are being given full support to adopt organic
+          farming”, said Gauri Shankar, director, agriculture referring to
+          Paramparagat Krishi Vikas Yojna (PKVY). The scheme is being
+          implemented under the aegis of Prime Minister Narendra Modi’s pet
+          project, Namami Gange or National Mission for Clean Ganga (NMCG).
         </p>
         <br />
         <img
-          src="https://source.unsplash.com/1600x900/?organic-farming"
+          src="https://source.unsplash.com/1600x900/?agriculture"
           alt="Organic"
         />
         <br />
 
         <p>
-          Organic farming which is a holistic production management system that
-          promotes and enhances agro-ecosystem health, including biodiversity,
-          biological cycles, and soil biological activity is hence important.
-          Many studies have shown that organic farming methods can produce even
-          higher yields than conventional methods. Significant difference in
-          soil health indicators such as nitrogen mineralization potential and
-          microbial abundance and diversity, which were higher in the organic
-          farms can also be seen. The increased soil health in organic farms
-          also resulted in considerably lower insect and disease incidence. The
-          emphasis on small-scale integrated farming systems has the potential
-          to revitalize rural areas and their economies.
+          “The initiative to encourage farmers to go for organic farming came
+          from the Centre”, he said adding that it (Centre) approved 42 villages
+          out of a list of 139 (villages) in the catchment area of the Ganga,
+          which was forwarded by the state government.
+        </p>
+        <p>
+          “The 42 villages (in the catchment of the Ganga) selected for
+          promoting organic farming fall in five districts”, Shankar said
+          referring to Chamoli, Uttarkashi, Pauri, Rudraprayag and Tehri.
+        </p>
+        <p>
+          Under the plan, farmers will be encouraged to create clusters of
+          different organic crops like millets, pulses, kidney beans apart from
+          vegetables like Amaranthus etc. “The emphasis is on cluster based
+          farming because if a crop is grown in clusters its volume goes up,
+          which will fetch hill farmers good price”, said the official.
+        </p>
+        <p>
+          “Such mode of farming could be remunerative in the hills where farm
+          produce fetches farmers hardly any income”, Shankar said. He
+          attributed the invariably low farm yield hill farmers get owing to
+          different types of crops they grow in their small, terraced
+          agricultural holdings.
+        </p>
+        <p>
+          “Volumes of crops are high when grown in clusters, which will also
+          fetch small and marginal hill farmers good price as the agricultural
+          produce can be marketed in bulk”, Shankar said. According to him, a
+          cluster each spread over a 20-hectare area each would be created in
+          all the 42 villages selected under PKVY. Organic crops to be grown in
+          clusters would be far more remunerative owing to their increased
+          demand among the health conscious consumers, the official clarified.
         </p>
         <br />
         <br />
       </section>
+
       <section>
         <br />
-        <h2 style={{ textAlign: 'center' }}>Advantages of Organic Farming</h2>
+        <h2 style={{ textAlign: 'center' }}>Subsidy</h2>
         <br />
-        <ul>
-          <li>
-            It helps to maintain environment health by reducing the level of
-            pollution.
-          </li>
-          <br />
-          <li>
-            It reduces human and animal health hazards by reducing the level of
-            residues in the product.
-          </li>
-          <br />
-          <li>
-            It helps in keeping agricultural production at a sustainable level.
-          </li>
-          <br />
-          <li>
-            It reduces the cost of agricultural production and also improves the
-            soil health.
-          </li>
-          <br />
-          <li>
-            It ensures optimum utilization of natural resources for short-term
-            benefit and helps in conserving them for future generation.
-          </li>
-          <br />
-          <li>
-            It not only saves energy for both animal and machine, but also
-            reduces risk of crop failure.
-          </li>
-          <br />
-          <li>
-            It improves the soil physical properties such as granulation, good
-            tilth, good aeration, easy root penetration and improves
-            water-holding capacity and reduces erosion.
-          </li>
-          <br />
-          <li>
-            It improves the soil’s chemical properties such as supply and
-            retention of soil nutrients, reduces nutrient loss into water bodies
-            and environment and promotes favourable chemical reactions.
-          </li>
-          <br />
-        </ul>
+        <p>
+          Government provides the Bio-fertilizer and bio-pesticides units with a
+          capital subsidy of 25% of the total project cost subject to a maximum
+          of Rs. 40 lakhs per unit. Fruit and vegetable compost units are
+          provided with a capital subsidy of 33% of the total project cost
+          subject to a maximum of Rs. 60 lakhs per unit.
+        </p>
+        <p>
+          <a href="https://www.indiafilings.com/learn/subsidy-for-organic-farming-in-india/">
+            Read more
+          </a>
+        </p>
+
+        <img src="https://source.unsplash.com/1600x900/?rupees" alt="Harvest" />
+      </section>
+
+      <section>
+        <br />
+        <h2 style={{ textAlign: 'center' }}>Promotion</h2>
+        <br />
+        <p>
+          Government has been promoting organic/natural farming through
+          dedicated schemes namely Paramparagat Krishi Vikas Yojana (PKVY) and
+          Mission Organic Value Chain Development in North East Region
+          (MOVCDNER).
+        </p>
+        <p>
+          <a href="https://pib.gov.in/Pressreleaseshare.aspx?PRID=1778909">
+            Read more
+          </a>
+        </p>
+
         <img
-          src="https://source.unsplash.com/1600x900/?harvest"
+          src="https://source.unsplash.com/1600x900/?village"
           alt="Harvest"
         />
       </section>

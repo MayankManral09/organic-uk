@@ -14,10 +14,13 @@ export default function Navbar() {
           </div>
           <ul className="menu-items">
             <li>
-              <Link to="/manures">Crops</Link>
+              <Link to="/crops">Crops</Link>
             </li>
             <li>
-              <Link to="/blogs">Manures</Link>
+              <Link to="/manures">Manures</Link>
+            </li>
+            <li>
+              <Link to="/rain">Rain</Link>
             </li>
             <li>
               <Link to="/about">About</Link>

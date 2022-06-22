@@ -31,7 +31,8 @@ export default function Manures() {
               content: blog.content,
             };
             i = i + 1;
-            return <ManureCard key={i} ManureData={ManureData} />;
+            if (blog.category == 'Manures')
+              return <ManureCard key={i} ManureData={ManureData} />;
           })}
         </div>
       </div>
