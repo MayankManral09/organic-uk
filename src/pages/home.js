@@ -20,6 +20,10 @@ export default function Home() {
           Bhararisain, a town in Chamoli district, is the summer capital of
           Uttarakhand. The High Court of the state is located in Nainital.
         </p>
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJW0W8cFVgcVQuWqVRYapT1Wvv7nYBCqS_E8JWEV6iFENr3IkpPKfC8WXfcx8cxoTclw&usqp=CAU"
+          alt="uttrakhand"
+        />
         <br />
         <p>
           Uttarakhand has a total area of 53,566 km2 (20,682 sq mi), of which
@@ -76,7 +80,7 @@ export default function Home() {
         </p>
         <br />
         <img
-          src="https://source.unsplash.com/1600x900/?organic-farming"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNGS1n5WVRDaSIq7VafxOaUcrNfrjBfixbvtgFWYyF_8qyRSi-lQgisJ16BvCeTibqvk&usqp=CAU"
           alt="uttrakhand"
         />
       </section>
@@ -144,6 +148,7 @@ export default function Home() {
           Reasons to choose Organic Farming
         </h2>
         <br />
+
         <h4 style={{ textAlign: 'center' }}>
           It boosts the nutritional quality of food
         </h4>
