@@ -6,6 +6,60 @@ export default function Home() {
     <>
       <section>
         <br />
+        <h2 style={{ textAlign: 'center' }}>Uttrakhand</h2>
+        <br />
+        <p>
+          Uttarakhand also known as Uttaranchal is a state in the northern part
+          of India. It is often referred to as the "Devbhumi” due to its
+          religious significance and numerous Hindu temples and pilgrimage
+          centres found throughout the state. Uttarakhand is known for the
+          natural environment of the Himalayas, the Bhabar and the Terai
+          regions. The state is divided into two divisions, Garhwal and Kumaon,
+          with a total of 13 districts. The winter capital of Uttarakhand is
+          Dehradun, the largest city of the state, which is a rail head.
+          Bhararisain, a town in Chamoli district, is the summer capital of
+          Uttarakhand. The High Court of the state is located in Nainital.
+        </p>
+        <br />
+        <p>
+          Uttarakhand has a total area of 53,566 km2 (20,682 sq mi), of which
+          86% is mountainous and 65% is covered by forest. Most of the northern
+          part of the state is covered by high Himalayan peaks and glaciers. In
+          the first half of the nineteenth century, the expanding development of
+          Indian roads, railways and other physical infrastructure was giving
+          rise to concerns over indiscriminate logging, particularly in the
+          Himalaya. Two of the most important rivers in Hinduism originate in
+          the glaciers of Uttarakhand, the Ganges at Gangotri and the Yamuna at
+          Yamunotri. They are fed by myriad lakes, glacial melts and streams.
+        </p>
+        <br />
+        <p>
+          Uttarakhand lies on the southern slope of the Himalaya range, and the
+          climate and vegetation vary greatly with elevation, from glaciers at
+          the highest elevations to subtropical forests at the lower elevations.
+          The highest elevations are covered by ice and bare rock. Below them,
+          between 3,000 and 5,000 metres (9,800 and 16,400 ft) are the western
+          Himalayan alpine shrub and meadows. The temperate western Himalayan
+          subalpine conifer forests grow just below the tree line. At 3,000 to
+          2,600 metres (9,800 to 8,500 ft) elevation they transition to the
+          temperate western Himalayan broadleaf forests, which lie in a belt
+          from 2,600 to 1,500 metres (8,500 to 4,900 ft) elevation. Below 1,500
+          metres (4,900 ft) elevation lie the Himalayan subtropical pine
+          forests. The Upper Gangetic Plains moist deciduous forests and the
+          drier Terai-Duar savanna and grasslands cover the lowlands along the
+          Uttar Pradesh border in a belt locally known as Bhabar. These lowland
+          forests have mostly been cleared for agriculture, but a few pockets
+          remain.
+        </p>
+        <br />
+        <img
+          src="https://source.unsplash.com/1600x900/?uttrakhand"
+          alt="uttrakhand"
+        />
+      </section>
+
+      <section>
+        <br />
         <h2 style={{ textAlign: 'center' }}>Organic Farming</h2>
         <br />
         <p>
