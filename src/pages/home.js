@@ -199,7 +199,7 @@ export default function Home() {
         </p>
         <br />
         <img
-          src="https://source.unsplash.com/1600x900/?organic-farming"
+          src="https://cdn.shopify.com/s/files/1/0722/2059/files/2ff4f1e_large.jpg?v=1507886793"
           alt="Organic"
         />
         <br />
@@ -266,7 +266,7 @@ export default function Home() {
           <br />
         </ul>
         <img
-          src="https://source.unsplash.com/1600x900/?harvest"
+          src="https://cdn1.byjus.com/wp-content/uploads/2019/06/benefits-of-organic-farming.png"
           alt="Harvest"
         />
       </section>

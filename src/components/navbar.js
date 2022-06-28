@@ -23,6 +23,9 @@ export default function Navbar() {
               <Link to="/rain">Rain</Link>
             </li>
             <li>
+              <Link to="/practices">Practices</Link>
+            </li>
+            <li>
               <Link to="/about">About</Link>
             </li>
           </ul>

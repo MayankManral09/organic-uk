@@ -1,0 +1,44 @@
+[
+  {
+    "key": "1",
+    "title": "Crop Rotation",
+    "img": "https://www.nicheagriculture.com/wp-content/uploads/2020/10/Crop-Rotation.jpg",
+    "content": "Crop rotation means changing species on the same field season by season. This agriculture technique may also include a fallow period within a certain interval of time. Compared to monoculture farming practices, crop rotation; eradicates pest and weed infestations and chemical contaminations to tackle the issues (since different species suffer from different pests), prevents soil erosion with different root systems, protects soil from depletion as diverse plants boost nutrient release, thus eliminating synthetic fertilizer applications that are disapproved in organic agriculture, and boost yields and reduces costs."
+  },
+  {
+    "key": "2",
+    "title": "Cover Cropping",
+    "img": "https://www.treehugger.com/thmb/-L_JWVFn07G7-tYAx7wb2xa9DQA=/2667x2000/smart/filters:no_upscale()/cover-crops-for-your-small-farm-3016670-78ed01311a8847a5b085f0128181f370.jpg",
+    "content": "This farming approach implies covering the field with any plant species, either for a certain season or perennially, partially between the crop rows or completely. Cover crops tackle soil erosion; improve water filtration and aeration with their roots. They also eliminate weeding with upper parts, by hiding unwanted vegetation from the sunlight."
+  },
+  {
+    "key": "3",
+    "title": "Green Manures",
+    "img": "https://ars.els-cdn.com/content/image/1-s2.0-S0038071716304655-gr5.jpg",
+    "content": "Mixing green plants with the soil enriches it with organic matters and nitrogen in particular. It also increases moisture levels and adds nutrients for microorganisms, thus improving the soil quality. The described method of agriculture also reduces weed infestation."
+  },
+  {
+    "key": "4",
+    "title": "Animal Manures",
+    "img": "https://www.epa.gov/sites/default/files/2016-08/afo-components_of_manure-600x302.jpg",
+    "content": "This organic farming practice enriches the soil with natural components that originated from animals, either raw or composted (excluding slaughter by-products). The method has restrictions though, as the material must not contain any synthetic additives, the soil must be tested before applications, and manures are allowed at least three months prior to harvesting. Composted forms are preferable since they are more compact in volume and contain fewer potential pathogens and contaminants."
+  },
+  {
+    "key": "5",
+    "title": "Integrated Weed Management",
+    "img": "https://image.slidesharecdn.com/iwm-161025041318/85/iwm-10-320.jpg?cb=1477368851",
+    "content": "Heavy chemicals are prohibited in organic farming. That’s why weed control is performed via other options of integrated weed management (prevention, biological, physical, and cultural): avoiding weed penetration onto the field with machinery, animals, irrigation waters, manual weeding, crop rotation, mulching, natural chemicals to stop germination, haymaking before weed seeding, introducing populations of birds/insects to consume weed seeds, etc."
+  },
+  {
+    "key": "6",
+    "title": "Integrated Pest Management",
+    "img": "https://bugwoodcloud.org/CMS/mura/sipmc/assets/Image/ESA-Factsheet-IPM-weblarge.jpg",
+    "content": "To combat pests, organic farming does not intend to destroy them completely as it will cause ecosystem changes. This concept of agriculture strongly relies on the alternative methods of pest control: prevention, constructing natural barriers, physical removal, and tackling pest invasions with their biological enemies (predators) like ladybugs vs aphids. As to synthetic additives, the concept allows only mild pesticides approved for organic farming, without disputable properties and minimum harm to humans and nature. Such additives include soap, hydrogen peroxide, baking soda, sulfur, or natural pest repellents like neem, citronella, lavender oil, among others."
+  },
+  {
+    "key": "7",
+    "title": "Livestock Management",
+    "img": "https://www.drishtiias.com/images/uploads/1571300887_image2.jpg",
+    "content": "The organic agriculture guidelines exclude dangerous and dubious additives to breed poultry and cattle like synthetic medications, growth-boosting drugs and hormones, antibiotics, non-organic forage, GMOs, clones, etc. Farming practices must provide proper conditions for raising and grazing, and create a suitable environment to ensure livestock natural behavior indoors and outdoors."
+  }
+]

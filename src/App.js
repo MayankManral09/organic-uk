@@ -11,6 +11,7 @@ import Crops from './pages/crops.js';
 import Manures from './pages/manures.js';
 import Rain from './pages/rain.js';
 import About from './pages/about.js';
+import Practices from './pages/practices.js';
 
 export default function App() {
   const [CropsData, setCropsData] = useState([]);
@@ -31,6 +32,7 @@ export default function App() {
           <Route path="/crops" element={<Crops />} />
           <Route path="/manures" element={<Manures />} />
           <Route path="/rain" element={<Rain />} />
+          <Route path="/practices" element={<Practices />} />
           <Route path="/about" element={<About />} />
         </Routes>
       </div>
