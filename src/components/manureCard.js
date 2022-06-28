@@ -11,7 +11,6 @@ export default function ManureCard({ ManureData }) {
       <h4 style={{ textAlign: 'right' }}>
         By {ManureData.author} on {ManureData.date}
       </h4>
-      {/* <span>Category: {ManureData.category}</span> */}
       <br />
       <p style={{ 'justify-content': 'center' }}>{ManureData.content}</p>
       <br />

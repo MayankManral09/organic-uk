@@ -28,10 +28,7 @@ export default function Practices() {
           <br />
           <br />
         </section>
-        {/* <img
-          src="https://www.nicheagriculture.com/wp-content/uploads/2020/10/Crop-Rotation.jpg"
-          alt="Organic"
-        /> */}
+
         <div>
           {Practices.map((practice) => {
             const Practice = {

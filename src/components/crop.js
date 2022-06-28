@@ -6,7 +6,7 @@ export default function Crop({ CropData }) {
     <section>
       <br />
       <br />
-      <h3>{CropData.No}</h3>
+      <h3 style={{ textAlign: 'center' }}>{CropData.No}</h3>
       <br />
       <h3>Crop Species: {CropData.CropSpecies}</h3>
       <br />

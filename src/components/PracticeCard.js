@@ -10,11 +10,7 @@ export default function PracticeCard({ Practice }) {
       <br />
       <p style={{ 'justify-content': 'center' }}>{Practice.content}</p>
       <br />
-      {Practice.img != '' ? (
-        <img src={`${Practice.img}`} alt="Organic" />
-      ) : (
-        <></>
-      )}
+      <img src={`${Practice.img}`} alt="Organic" />
     </section>
   );
 }
