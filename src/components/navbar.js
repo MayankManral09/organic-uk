@@ -30,7 +30,7 @@ export default function Navbar() {
             </li>
           </ul>
           <h1 className="logo">
-            <Link to="/">Organic Uttrakhand</Link>
+            <Link to="/">Organic-UK</Link>
           </h1>
         </div>
       </nav>
