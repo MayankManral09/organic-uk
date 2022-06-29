@@ -20,10 +20,12 @@ export default function Home() {
           Bhararisain, a town in Chamoli district, is the summer capital of
           Uttarakhand. The High Court of the state is located in Nainital.
         </p>
-        <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJW0W8cFVgcVQuWqVRYapT1Wvv7nYBCqS_E8JWEV6iFENr3IkpPKfC8WXfcx8cxoTclw&usqp=CAU"
-          alt="uttrakhand"
-        />
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1756346.808271148!2d77.93776740401248!3d30.752617492861006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909dcc202279c09%3A0x7c43b63689cc005!2sUttarakhand!5e0!3m2!1sen!2sin!4v1656490542186!5m2!1sen!2sin"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
         <br />
         <p>
           Uttarakhand has a total area of 53,566 km2 (20,682 sq mi), of which
@@ -36,6 +38,10 @@ export default function Home() {
           the glaciers of Uttarakhand, the Ganges at Gangotri and the Yamuna at
           Yamunotri. They are fed by myriad lakes, glacial melts and streams.
         </p>
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJW0W8cFVgcVQuWqVRYapT1Wvv7nYBCqS_E8JWEV6iFENr3IkpPKfC8WXfcx8cxoTclw&usqp=CAU"
+          alt="uttrakhand"
+        />
         <br />
         <p>
           Uttarakhand lies on the southern slope of the Himalaya range, and the

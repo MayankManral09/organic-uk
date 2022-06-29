@@ -15,8 +15,12 @@ export default function About() {
           farming. The scheme would also help augment their income
           substantially, officials said.
         </p>
-        <br />
-        <img src="https://source.unsplash.com/1600x900/?ganga" alt="Organic" />
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1756346.808271148!2d77.93776740401248!3d30.752617492861006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909dcc202279c09%3A0x7c43b63689cc005!2sUttarakhand!5e0!3m2!1sen!2sin!4v1656490542186!5m2!1sen!2sin"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
         <p>
           “Under the first phase of the centrally funded project, all poor and
           marginal hill farmers inhabiting the 42 villages in the catchment area
@@ -26,12 +30,7 @@ export default function About() {
           implemented under the aegis of Prime Minister Narendra Modi’s pet
           project, Namami Gange or National Mission for Clean Ganga (NMCG).
         </p>
-        <br />
-        <img
-          src="https://source.unsplash.com/1600x900/?agriculture"
-          alt="Organic"
-        />
-        <br />
+        <img src="https://source.unsplash.com/1600x900/?ganga" alt="Organic" />
 
         <p>
           “The initiative to encourage farmers to go for organic farming came
@@ -51,6 +50,10 @@ export default function About() {
           farming because if a crop is grown in clusters its volume goes up,
           which will fetch hill farmers good price”, said the official.
         </p>
+        <img
+          src="https://source.unsplash.com/1600x900/?agriculture"
+          alt="Organic"
+        />
         <p>
           “Such mode of farming could be remunerative in the hills where farm
           produce fetches farmers hardly any income”, Shankar said. He

@@ -40,6 +40,15 @@ img {
   max-width: 750px;
   width: 95%;
 }
+
+iframe {
+  border: 0;
+  border-radius: 1.5rem;
+  height: 350px;
+  width: 90%;
+  margin: 1rem auto;
+  box-shadow: 0 0 14px 3px #10c510;
+}
 /* Footer */
 footer {
   width: 100%;
